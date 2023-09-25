@@ -1,0 +1,15 @@
+D:\GeekBrains\Базы данных, контрольная\ControlWork\bin\Debug\net6.0\ControlWork.exe
+D:\GeekBrains\Базы данных, контрольная\ControlWork\bin\Debug\net6.0\ControlWork.deps.json
+D:\GeekBrains\Базы данных, контрольная\ControlWork\bin\Debug\net6.0\ControlWork.runtimeconfig.json
+D:\GeekBrains\Базы данных, контрольная\ControlWork\bin\Debug\net6.0\ControlWork.dll
+D:\GeekBrains\Базы данных, контрольная\ControlWork\bin\Debug\net6.0\ControlWork.pdb
+D:\GeekBrains\Базы данных, контрольная\ControlWork\obj\Debug\net6.0\ControlWork.csproj.AssemblyReference.cache
+D:\GeekBrains\Базы данных, контрольная\ControlWork\obj\Debug\net6.0\ControlWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Базы данных, контрольная\ControlWork\obj\Debug\net6.0\ControlWork.AssemblyInfoInputs.cache
+D:\GeekBrains\Базы данных, контрольная\ControlWork\obj\Debug\net6.0\ControlWork.AssemblyInfo.cs
+D:\GeekBrains\Базы данных, контрольная\ControlWork\obj\Debug\net6.0\ControlWork.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Базы данных, контрольная\ControlWork\obj\Debug\net6.0\ControlWork.dll
+D:\GeekBrains\Базы данных, контрольная\ControlWork\obj\Debug\net6.0\refint\ControlWork.dll
+D:\GeekBrains\Базы данных, контрольная\ControlWork\obj\Debug\net6.0\ControlWork.pdb
+D:\GeekBrains\Базы данных, контрольная\ControlWork\obj\Debug\net6.0\ControlWork.genruntimeconfig.cache
+D:\GeekBrains\Базы данных, контрольная\ControlWork\obj\Debug\net6.0\ref\ControlWork.dll
